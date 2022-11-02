@@ -1,0 +1,7 @@
+
+# symbols to use
+runtime:
+  stock.symbols: "AAPL,MSFT,GOOG,AMZN,TSLA"
+kafka:
+  topic.read: "stockvalues"
+  topic.write: "processedstockvalues"
