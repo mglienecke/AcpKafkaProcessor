@@ -4,4 +4,4 @@ runtime:
   stock.symbols: "AAPL,MSFT,GOOG,AMZN,TSLA"
 kafka:
   topic.read: "stockvalues"
-  topic.write: "processedstockvalues"
+  topic.write: "processed_stockvalues"
